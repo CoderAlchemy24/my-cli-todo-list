@@ -1,0 +1,13 @@
+{
+  "listName": "List1",
+  "listItems": [
+    {
+      "id": 1,
+      "task": "körte 3kg"
+    },
+    {
+      "id": 2,
+      "task": "alma 5kg"
+    }
+  ]
+}
